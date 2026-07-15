@@ -42,7 +42,7 @@ df_apec = df[df["Country Name"].isin(apec)]
 
 
 st.title("Dashboard Interactivo")
-st.subheader("Crecimiento del PIB (% anual) - Países APEC") whith
+st.subheader("Crecimiento del PIB (% anual) - Países APEC")
 
 
 st.sidebar.header("Panel de navegación")
