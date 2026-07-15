@@ -36,7 +36,7 @@ apec = [
     'Singapur',
     'Viet Nam'
 ]
-
+st.title:Integrantes:
 
 df_apec = df[df["Country Name"].isin(apec)]
 
