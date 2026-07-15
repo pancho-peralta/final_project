@@ -47,6 +47,7 @@ st.subheader("Crecimiento del PIB (% anual) - Países APEC")
 
 st.sidebar.header("Panel de navegación")
 
+st.sidebar.image("logo.png", use_container_width=True)
 
 pais = st.sidebar.selectbox(
     "Seleccione un país",
