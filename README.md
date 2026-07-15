@@ -12,12 +12,8 @@ El dashboard permite seleccionar países, visualizar tendencias históricas, com
 - inicio.py: Código del dashboard desarrollado en Streamlit.
 - pib_limpio.csv: Dataset utilizado para la visualización.
 
-## Dashboard
-
-Link delStreamlit:
-
 
 ## Integrantes
 
-- Francisco peralta - GitHub:
-- Matias matias - GitHub:
+- Francisco peralta -
+- Matias herrera -
