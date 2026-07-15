@@ -36,7 +36,9 @@ apec = [
     'Singapur',
     'Viet Nam'
 ]
-st.title:Integrantes:
+
+st.sidebar.write("Francisco Peralta")
+st.sidebar.write("Matias herrera")
 
 df_apec = df[df["Country Name"].isin(apec)]
 
