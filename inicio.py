@@ -47,7 +47,7 @@ st.subheader("Crecimiento del PIB (% anual) - Países APEC")
 
 st.sidebar.header("Panel de navegación")
 
-st.sidebar.image("https://www.academia.cl/comunicado-oficial/", use_container_width=True)
+st.image("https://www.academia.cl/comunicado-oficial/", use_container_width=True)
 
 pais = st.sidebar.selectbox(
     "Seleccione un país",
